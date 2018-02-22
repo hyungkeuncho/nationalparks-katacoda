@@ -463,6 +463,7 @@
 {         "countryCode": "ZA",          "countryName":  "South Africa", "coordinates": [ -25.68309,  20.33526],          "name": "Kalahari Gemsbok National Park",          "toponymName": "Kalahari Gemsbok National Park"}
 {         "countryCode": "MY",          "countryName":  "Malaysia", "coordinates": [ 1.71667,  110.46667],          "name": "Bako National Park",          "toponymName": "Bako National Park"}
 {         "countryCode": "KR",          "countryName":  "South Korea", "coordinates": [ 35.5,  126.95],          "name": "Mount Naejang National Park",          "toponymName": "Mount Naejang National Park"}
+{         "countryCode": "KR",          "countryName":  "South Korea", "coordinates": [ 35.5,  126.80],          "name": "CHO National Park",          "toponymName": "CHO National Park"}
 {         "countryCode": "ET",          "countryName":  "Ethiopia", "coordinates": [ 6,  35.83333],          "name": "Omo National Park",          "toponymName": "Omo National Park"}
 {         "countryCode": "AU",          "countryName":  "Australia", "coordinates": [ -37.1652,  150.0012],          "name": "Ben Boyd National Park",          "toponymName": "Ben Boyd National Park"}
 {         "countryCode": "AU",          "countryName":  "Australia", "coordinates": [ -28.8485,  152.16789],          "name": "Boonoo Boonoo National Park",          "toponymName": "Boonoo Boonoo National Park"}
